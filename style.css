@@ -1,0 +1,38 @@
+
+body {
+	color: red;
+	display: flex;
+	position: relative;
+}
+
+
+h1 {
+	color: white;
+	background-color: purple;
+	border-radius: 7px;
+	padding: 7px;
+}
+
+code {
+	color: green;
+	font-size: 120%;
+}
+
+.code-bg {
+	background-color: black;
+	margin: 30px;
+	padding: 10px;
+	
+}
+
+#main-doc {
+	margin-left: 30px;
+	border-left: 4px solid purple;
+	padding-left: 20px;
+	padding-top: 30px;
+}
+
+#navbar {
+	position: sticky;
+	top: 0px;
+}
