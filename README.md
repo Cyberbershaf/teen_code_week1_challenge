@@ -1,7 +1,7 @@
-#Technical documentation
+# Technical documentation
 
-This is my first real challenge at teencode week one.
+## This is my first real challenge at teencode week one.
 
-I am going to use the content provided in the example of the documentation.
+### I am going to use the content provided in the example of the documentation.
 
 Though the design will be mine.
